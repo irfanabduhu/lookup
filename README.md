@@ -7,4 +7,4 @@
 - Interface of the functions should be concisely documented. Any presumption about input stream, exception handling should be mentioned in the documentation.
 
 ## Goal:
-- 0.1 multiple users
+1. multiple users
