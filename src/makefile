@@ -1,5 +1,5 @@
 CXX=clang++
-CXXFLAGS=-g -std=c++17 -Wall -pedantic
+CXXFLAGS=-g -std=c++11 -Wall -lboost_system -lboost_filesystem
 BIN=prog
 
 SRC=$(wildcard *.cpp)
