@@ -1,1 +1,1 @@
-After experimenting with bits and pieces in the `playground` directory, the successful one should be brought here for integration. If it fits with the whole then ship it to the `test` directory.
+The `src` directory has the whole app integrated from different pieces. It is subject to further polish-up.
